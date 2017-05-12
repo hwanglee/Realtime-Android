@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "665645577643",
+    "firebase_url": "https://realtime-1608c.firebaseio.com",
+    "project_id": "realtime-1608c",
+    "storage_bucket": "realtime-1608c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665645577643:android:52211bd1d6a0e90b",
+        "android_client_info": {
+          "package_name": "edu.umd.cs.realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665645577643-qeor3182dpiegorn87d9chkl7frt8gn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.umd.cs.realtime",
+            "certificate_hash": "612ff62111e584551c5e51e35d735b784afc8896"
+          }
+        },
+        {
+          "client_id": "665645577643-qgodeouhuoilrqsrq7koc7m7imjvb6ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX1fGg0uQginhXuQF3_3U88YY-TuGziEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665645577643-qgodeouhuoilrqsrq7koc7m7imjvb6ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
